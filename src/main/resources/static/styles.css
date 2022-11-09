@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    border-box: 0;
+}
+
+html {
+    background-color: rgb(245, 244, 242);
+    padding: 20px;
+}
+
+h1, h2, h3, h4, h5 {
+    color: rgb(90, 150, 125);
+}
